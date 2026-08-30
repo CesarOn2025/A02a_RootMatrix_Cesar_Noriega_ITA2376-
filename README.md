@@ -25,5 +25,3 @@ Code or notebooks, if applicable
 Final project documentation
 
 
-**Houston Community College**  
-ITA2376**
