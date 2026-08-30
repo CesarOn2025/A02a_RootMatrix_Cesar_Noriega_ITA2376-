@@ -3,4 +3,4 @@ Student Name: Cesar Noriega
 Assignment: A02 – Comparative Analysis of Machine Learning and Deep Learning Tools and Frameworks
 Course: ITA2376  
 My Contribution
-I researched and compared Scikit-learn and H2O, focusing on usability, automation, scalability, and Machine Learning applications. I also developed a practical application for predictive maintenance of HVAC systems in cruise ships. I prepared the comparative analysis section and contributed to the project documentation.
+I researched and compared Scikit-learn and H2O, focusing on ease of use, automation, scalability, and machine learning applications. Additionally, I will develop a practical application for the predictive maintenance of HVAC systems on cruise ships. I will be able to conduct a comparative analysis and contribute to the project documentation.
