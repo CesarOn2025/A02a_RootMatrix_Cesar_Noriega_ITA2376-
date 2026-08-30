@@ -16,12 +16,7 @@ Team Contributions:
 Each team member will upload their individual contribution to this repository.
 
 Repository Contents:
-This repository will include:
 Comparative analysis documents
 Individual contribution journals
-Research materials
-Practical applications
-Code or notebooks, if applicable
-Final project documentation
 
 
