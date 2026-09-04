@@ -1,5 +1,6 @@
 Course: ITA2376 Deep Learning  
 Assignment: A02 – Comparative Analysis of Machine Learning and Deep Learning Tools and Frameworks
+Team: Nichelle Graf, Luiz Paludo, Mary Ann Mastry and Cesar Noriega.
 
 Project Description:
 This repository contains the group research and contributions for Assignment A02. The project focuses on comparing Machine Learning and Deep Learning tools and frameworks.
