@@ -1,11 +1,11 @@
 This folder contains my contribution to the group project.
 
-I created a slide show comparing Keras and FastAi libraries.
+I created a slide show comparing Keras vs FastAi libraries and also NLTK vs spaCy.
 
-I saved the presentation in .pdf and .pptx files.
+I saved the presentations in .pdf and .pptx files.
 
-My analysis journal is in a .docx file.
+My analysis journals are in a .docx file.
 
-I also included a contribution journal on what I did on my group project, that is also in a .docx file.
+I also included a contribution journals on what I did on my group projects, that is also in a .docx file.
 
 Thank you
